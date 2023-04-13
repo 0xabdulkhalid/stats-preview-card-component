@@ -4,7 +4,7 @@
 
   <h2 align="center">Stats Preview Card Component Solution</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU6" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
     <a href="https://0xabdulkhalid.github.io/stats-preview-card-component/" target="_blank">View Demo</a>
@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [[🎯]](#links) |
+  | Solution URL: | [[Stats Preview Card Component 🎯 [ SEMANTIC HTML - BEM - VANILLA CSS3 ]]](https://www.frontendmentor.io/solutions/stats-preview-card-component-semantic-html-bem-vanilla-css3-H61iDjMAli) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/stats-preview-card-component/](https://0xabdulkhalid.github.io/stats-preview-card-component/) |
   |||
 
